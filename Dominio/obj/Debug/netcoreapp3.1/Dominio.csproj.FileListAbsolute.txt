@@ -1,0 +1,9 @@
+E:\NET-CORE\NET-REACT\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+E:\NET-CORE\NET-REACT\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+E:\NET-CORE\NET-REACT\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+E:\NET-CORE\NET-REACT\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+E:\NET-CORE\NET-REACT\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+E:\NET-CORE\NET-REACT\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+E:\NET-CORE\NET-REACT\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+E:\NET-CORE\NET-REACT\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+E:\NET-CORE\NET-REACT\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache

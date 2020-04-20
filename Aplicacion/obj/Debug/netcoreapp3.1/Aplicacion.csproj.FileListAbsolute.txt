@@ -1,0 +1,14 @@
+E:\NET-CORE\NET-REACT\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.deps.json
+E:\NET-CORE\NET-REACT\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.dll
+E:\NET-CORE\NET-REACT\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.pdb
+E:\NET-CORE\NET-REACT\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Dominio.dll
+E:\NET-CORE\NET-REACT\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Persistencia.dll
+E:\NET-CORE\NET-REACT\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Dominio.pdb
+E:\NET-CORE\NET-REACT\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Persistencia.pdb
+E:\NET-CORE\NET-REACT\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csprojAssemblyReference.cache
+E:\NET-CORE\NET-REACT\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.AssemblyInfoInputs.cache
+E:\NET-CORE\NET-REACT\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.AssemblyInfo.cs
+E:\NET-CORE\NET-REACT\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.CopyComplete
+E:\NET-CORE\NET-REACT\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.dll
+E:\NET-CORE\NET-REACT\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.pdb
+E:\NET-CORE\NET-REACT\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.CoreCompileInputs.cache

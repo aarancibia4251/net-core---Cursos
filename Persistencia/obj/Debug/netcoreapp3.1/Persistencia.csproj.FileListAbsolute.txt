@@ -1,0 +1,15 @@
+E:\NET-CORE\NET-REACT\ProyectoCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.deps.json
+E:\NET-CORE\NET-REACT\ProyectoCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.dll
+E:\NET-CORE\NET-REACT\ProyectoCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.pdb
+E:\NET-CORE\NET-REACT\ProyectoCore\Persistencia\bin\Debug\netcoreapp3.1\Dominio.dll
+E:\NET-CORE\NET-REACT\ProyectoCore\Persistencia\bin\Debug\netcoreapp3.1\Dominio.pdb
+E:\NET-CORE\NET-REACT\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csprojAssemblyReference.cache
+E:\NET-CORE\NET-REACT\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfoInputs.cache
+E:\NET-CORE\NET-REACT\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfo.cs
+E:\NET-CORE\NET-REACT\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CopyComplete
+E:\NET-CORE\NET-REACT\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.dll
+E:\NET-CORE\NET-REACT\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.pdb
+E:\NET-CORE\NET-REACT\ProyectoCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.runtimeconfig.json
+E:\NET-CORE\NET-REACT\ProyectoCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.runtimeconfig.dev.json
+E:\NET-CORE\NET-REACT\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CoreCompileInputs.cache
+E:\NET-CORE\NET-REACT\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.genruntimeconfig.cache

@@ -1,0 +1,42 @@
+﻿{
+   "ContextClassName": "CursosonlineContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "Persistencia",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 1,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Comentario]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Curso]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[CursoInstructor]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Instructor]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Precio]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}
